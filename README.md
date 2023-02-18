@@ -1,13 +1,9 @@
-<h1 align="center">Hi 👋, I'm Alexsander</h1>
-<h3 align="center">iOS developer from Russia</h3>
+<h1 align="center"Привет 👋, меня зовут Александр</h1>
+<h3 align="center">iOS-разработчик из России</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vikharevam" alt="vikharevam" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vikharevam" alt="vikharevam" /></a> </p> -->
 
-- 🌱 I’m currently learning **Swift**
 
-- 👨‍💻 All of my projects are available at [www.graphvikharev.ru](www.graphvikharev.ru)
-
-- 📫 How to reach me **rostovdmb@yandex.ru**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
